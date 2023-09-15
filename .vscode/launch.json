@@ -8,8 +8,8 @@
       "name": ".NET Core Launch (console)",
       "type": "coreclr",
       "request": "launch",
-      "preLaunchTask": "dotnet build",
-      "program": "${workspaceFolder}/Debug-101/bin/obj/Debug/net7.0/Debug-101.dll",
+      // "preLaunchTask": "build", this causing build issues during debug process initiation
+      "program": "${workspaceFolder}/Debug-101/bin/Debug/net7.0/Debug-101.dll",
       "args": [],
       "cwd": "${workspaceFolder}",
       "stopAtEntry": false,
