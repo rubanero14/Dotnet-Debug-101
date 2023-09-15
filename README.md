@@ -16,7 +16,13 @@ dotnet new console -o ./{App-Name}/
 dotnet run
 ```
 
-## To build console application:
+## To clean console application build files:
+
+```
+dotnet clean
+```
+
+## To build console application build files:
 
 ```
 dotnet build
