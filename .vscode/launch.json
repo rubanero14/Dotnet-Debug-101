@@ -13,7 +13,7 @@
       "args": [],
       "cwd": "${workspaceFolder}",
       "stopAtEntry": false,
-      "console": "internalConsole",
+      "console": "integratedTerminal", // or externalTerminal to enable debug user input variable's such as Console.ReadLine();
       "requireExactSource": false
     }
   ]
