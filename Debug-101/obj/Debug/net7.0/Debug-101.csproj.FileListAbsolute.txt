@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\react-lessons\Section 16\Dotnet-Debug-101\Debug-101\bin\Debug\net7.0\Debug-101.exe
+C:\Users\User\Desktop\react-lessons\Section 16\Dotnet-Debug-101\Debug-101\bin\Debug\net7.0\Debug-101.deps.json
+C:\Users\User\Desktop\react-lessons\Section 16\Dotnet-Debug-101\Debug-101\bin\Debug\net7.0\Debug-101.runtimeconfig.json
+C:\Users\User\Desktop\react-lessons\Section 16\Dotnet-Debug-101\Debug-101\bin\Debug\net7.0\Debug-101.dll
+C:\Users\User\Desktop\react-lessons\Section 16\Dotnet-Debug-101\Debug-101\bin\Debug\net7.0\Debug-101.pdb
+C:\Users\User\Desktop\react-lessons\Section 16\Dotnet-Debug-101\Debug-101\obj\Debug\net7.0\Debug-101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\react-lessons\Section 16\Dotnet-Debug-101\Debug-101\obj\Debug\net7.0\Debug-101.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\react-lessons\Section 16\Dotnet-Debug-101\Debug-101\obj\Debug\net7.0\Debug-101.AssemblyInfo.cs
+C:\Users\User\Desktop\react-lessons\Section 16\Dotnet-Debug-101\Debug-101\obj\Debug\net7.0\Debug-101.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\react-lessons\Section 16\Dotnet-Debug-101\Debug-101\obj\Debug\net7.0\Debug-101.dll
+C:\Users\User\Desktop\react-lessons\Section 16\Dotnet-Debug-101\Debug-101\obj\Debug\net7.0\refint\Debug-101.dll
+C:\Users\User\Desktop\react-lessons\Section 16\Dotnet-Debug-101\Debug-101\obj\Debug\net7.0\Debug-101.pdb
+C:\Users\User\Desktop\react-lessons\Section 16\Dotnet-Debug-101\Debug-101\obj\Debug\net7.0\Debug-101.genruntimeconfig.cache
+C:\Users\User\Desktop\react-lessons\Section 16\Dotnet-Debug-101\Debug-101\obj\Debug\net7.0\ref\Debug-101.dll
