@@ -1,22 +1,22 @@
-﻿// Console.WriteLine("============================================================================================");
+﻿Console.WriteLine("============================================================================================");
 // Exercise - Implement try-catch exception handling
 // Implement a simple try-catch
-// double float1 = 3000.0;
-// double float2 = 0.0;
-// int number1 = 3000;
-// int number2 = 0;
+double Float1 = 3000.0;
+double Float2 = 0.0;
+int Number1 = 3000;
+int Number2 = 0;
 
-// try
-// {
-//     Console.WriteLine(float1 / float2);
-//     Console.WriteLine(number1 / number2);
-// }
-// catch
-// {
-//     Console.WriteLine("An exception has been caught");
-// }
+try
+{
+    Console.WriteLine(Float1 / Float2);
+    Console.WriteLine(Number1 / Number2);
+}
+catch
+{
+    Console.WriteLine("An exception has been caught");
+}
 
-// Console.WriteLine("Exit program");
+Console.WriteLine("Exit program");
 
 Console.WriteLine("============================================================================================");
 // Catch exceptions thrown in called methods
