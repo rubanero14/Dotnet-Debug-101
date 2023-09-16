@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Implement-try-catch-exception-handling\bin\Debug\net7.0\Exercise-Implement-try-catch-exception-handling.exe
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Implement-try-catch-exception-handling\bin\Debug\net7.0\Exercise-Implement-try-catch-exception-handling.deps.json
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Implement-try-catch-exception-handling\bin\Debug\net7.0\Exercise-Implement-try-catch-exception-handling.runtimeconfig.json
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Implement-try-catch-exception-handling\bin\Debug\net7.0\Exercise-Implement-try-catch-exception-handling.dll
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Implement-try-catch-exception-handling\bin\Debug\net7.0\Exercise-Implement-try-catch-exception-handling.pdb
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Implement-try-catch-exception-handling\obj\Debug\net7.0\Exercise-Implement-try-catch-exception-handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Implement-try-catch-exception-handling\obj\Debug\net7.0\Exercise-Implement-try-catch-exception-handling.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Implement-try-catch-exception-handling\obj\Debug\net7.0\Exercise-Implement-try-catch-exception-handling.AssemblyInfo.cs
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Implement-try-catch-exception-handling\obj\Debug\net7.0\Exercise-Implement-try-catch-exception-handling.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Implement-try-catch-exception-handling\obj\Debug\net7.0\Exercise-Implement-try-catch-exception-handling.dll
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Implement-try-catch-exception-handling\obj\Debug\net7.0\refint\Exercise-Implement-try-catch-exception-handling.dll
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Implement-try-catch-exception-handling\obj\Debug\net7.0\Exercise-Implement-try-catch-exception-handling.pdb
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Implement-try-catch-exception-handling\obj\Debug\net7.0\Exercise-Implement-try-catch-exception-handling.genruntimeconfig.cache
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Implement-try-catch-exception-handling\obj\Debug\net7.0\ref\Exercise-Implement-try-catch-exception-handling.dll

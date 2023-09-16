@@ -27,6 +27,18 @@
       "stopAtEntry": false,
       "console": "integratedTerminal", // or externalTerminal to enable debug user input variable's such as Console.ReadLine();
       "requireExactSource": false
+    },
+    {
+      "name": "Launch Exercise-Implement-try-catch-exception-handling (console)",
+      "type": "coreclr",
+      "request": "launch",
+      // "preLaunchTask": "build", this causing build issues during debug process initiation
+      "program": "${workspaceFolder}/Exercise-Implement-try-catch-exception-handling/bin/Debug/net7.0/Exercise-Implement-try-catch-exception-handling.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "stopAtEntry": false,
+      "console": "integratedTerminal", // or externalTerminal to enable debug user input variable's such as Console.ReadLine();
+      "requireExactSource": false
     }
   ]
 }
