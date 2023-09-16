@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Dotnet-Debug-101\\Debug-101\\Debug-101.csproj": {}
+    "c:\\Users\\User\\Desktop\\Dotnet-Debug-101\\Debug-101\\Debug-101.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Dotnet-Debug-101\\Debug-101\\Debug-101.csproj": {
+    "c:\\Users\\User\\Desktop\\Dotnet-Debug-101\\Debug-101\\Debug-101.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Dotnet-Debug-101\\Debug-101\\Debug-101.csproj",
+        "projectUniqueName": "c:\\Users\\User\\Desktop\\Dotnet-Debug-101\\Debug-101\\Debug-101.csproj",
         "projectName": "Debug-101",
-        "projectPath": "C:\\Users\\User\\Desktop\\Dotnet-Debug-101\\Debug-101\\Debug-101.csproj",
+        "projectPath": "c:\\Users\\User\\Desktop\\Dotnet-Debug-101\\Debug-101\\Debug-101.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Dotnet-Debug-101\\Debug-101\\obj\\",
+        "outputPath": "c:\\Users\\User\\Desktop\\Dotnet-Debug-101\\Debug-101\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
