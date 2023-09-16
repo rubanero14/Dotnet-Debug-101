@@ -48,3 +48,40 @@ static void WriteMessage()
 }
 
 Console.WriteLine("============================================================================================");
+// Exercise - Complete a challenge activity for try-catch
+// Try-Catch challenge
+try
+{
+    Process();
+}
+catch
+{
+    Console.WriteLine("An exception has occurred");
+}
+
+Console.WriteLine("Exit program");
+
+static void Process()
+{
+    try
+    {
+        WriteMessage1();
+    }
+    catch
+    {
+        Console.WriteLine("Exception caught in Process");
+    }
+}
+
+static void WriteMessage1()
+{
+    double float_1 = 3000.0;
+    double float_2 = 0.0;
+    int number_1 = 3000;
+    int number_2 = 0;
+
+    Console.WriteLine(float_1 / float_2);
+    Console.WriteLine(number_1 / number_2);
+}
+Console.WriteLine("============================================================================================");
+// Exercise - Catch specific exception types
