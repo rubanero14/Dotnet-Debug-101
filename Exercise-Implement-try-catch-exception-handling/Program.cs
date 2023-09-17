@@ -212,3 +212,72 @@ foreach (string inputValue in inputValues)
     }
 }
 Console.WriteLine("============================================================================================");
+// Exercise - Complete a challenge activity to catch specific exceptions
+// Catch specific exceptions challenge
+checked
+{
+    try
+    {
+        int num1 = int.MaxValue;
+        int num2 = int.MaxValue;
+        int result = num1 + num2;
+        Console.WriteLine("Result: " + result);
+    }
+    catch (OverflowException ex)
+    {
+        Console.WriteLine("Error: The number is too large to be represented as an integer. " + ex.Message);
+    }
+}
+
+try
+{
+    string? str = null;
+    int length = str.Length;
+    Console.WriteLine("String Length: " + length);
+}
+catch (NullReferenceException ex)
+{
+    Console.WriteLine("Error: The reference is null. " + ex.Message);
+}
+
+try
+{
+    int[] numbers = new int[5];
+    numbers[5] = 10;
+    Console.WriteLine("Number at index 5: " + numbers[5]);
+}
+catch (IndexOutOfRangeException ex)
+{
+    Console.WriteLine("Error: Index out of range. " + ex.Message);
+}
+
+try
+{
+    int num3 = 10;
+    int num4 = 0;
+    int result2 = num3 / num4;
+    Console.WriteLine("Result: " + result2);
+}
+catch (DivideByZeroException ex)
+{
+    Console.WriteLine("Error: Cannot divide by zero. " + ex.Message);
+}
+
+Console.WriteLine("Exiting program.");
+
+/*
+    Reference materials on Execption:
+    You can find additional information about exception properties here: https://learn.microsoft.com/dotnet/standard/exceptions/exception-class-and-properties and https://learn.microsoft.com/dotnet/api/system.exception.
+
+    You can find additional information about exceptions here: https://learn.microsoft.com/dotnet/csharp/language-reference/language-specification/exceptions.
+
+    You can find additional information about using specific exception types here: https://learn.microsoft.com/dotnet/standard/exceptions/how-to-use-specific-exceptions-in-a-catch-block.
+
+    You can find additional information about the try-finally pattern here: https://learn.microsoft.com/dotnet/csharp/language-reference/keywords/try-finally
+
+    You can find additional information about the try-catch-finally pattern here: https://learn.microsoft.com/dotnet/csharp/language-reference/keywords/try-catch-finally.
+
+    You can find additional information about how to clean up code using finally here: https://learn.microsoft.com/dotnet/csharp/fundamentals/exceptions/how-to-execute-cleanup-code-using-finally.
+*/
+Console.WriteLine("============================================================================================");
+
