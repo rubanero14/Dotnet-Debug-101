@@ -75,6 +75,18 @@
       "stopAtEntry": false,
       "console": "integratedTerminal", // or externalTerminal to enable debug user input variable's such as Console.ReadLine();
       "requireExactSource": false
+    },
+    {
+      "name": "Launch Challenge-project-Debug-a-CSharp-console-application-using-Visual-Studio-Code (console)",
+      "type": "coreclr",
+      "request": "launch",
+      // "preLaunchTask": "build", this causing build issues during debug process initiation
+      "program": "${workspaceFolder}/Challenge-project-Debug-a-CSharp-console-application-using-Visual-Studio-Code/bin/Debug/net7.0/Challenge-project-Debug-a-CSharp-console-application-using-Visual-Studio-Code.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "stopAtEntry": false,
+      "console": "integratedTerminal", // or externalTerminal to enable debug user input variable's such as Console.ReadLine();
+      "requireExactSource": false
     }
   ]
 }

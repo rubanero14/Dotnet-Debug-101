@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Challenge-project-Debug-a-CSharp-console-application-using-Visual-Studio-Code/1.0.0": {
+        "runtime": {
+          "Challenge-project-Debug-a-CSharp-console-application-using-Visual-Studio-Code.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Challenge-project-Debug-a-CSharp-console-application-using-Visual-Studio-Code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
