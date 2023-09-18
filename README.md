@@ -65,6 +65,6 @@ dotnet new sln
     },
   ]
 }
-// Ensure to build your project prior to debug and testing
+// Ensure to build your project first prior to debug and testing
 // Now you can start to debug the project under DEBUG & RUN tab for this project
 ```
