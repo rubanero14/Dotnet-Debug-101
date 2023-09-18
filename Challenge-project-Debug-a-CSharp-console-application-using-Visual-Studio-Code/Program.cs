@@ -26,7 +26,7 @@ expected.
     - Report till balance: the TillAmountSummary method is used display a message showing the amount of cash in the till.
 */
 string? readResult = null;
-bool useTestData = false;
+bool useTestData = true;
 
 Console.Clear();
 
@@ -57,7 +57,7 @@ Console.WriteLine($"Expected till value: {registerCheckTillTotal}\n\r");
 
 var valueGenerator = new Random((int)DateTime.Now.Ticks);
 
-int transactions = 40;
+int transactions = 100;
 
 if (useTestData)
 {
@@ -67,7 +67,7 @@ if (useTestData)
 while (transactions > 0)
 {
     transactions -= 1;
-    int itemCost = valueGenerator.Next(2, 50);
+    int itemCost = valueGenerator.Next(2, 49);
 
     if (useTestData)
     {
