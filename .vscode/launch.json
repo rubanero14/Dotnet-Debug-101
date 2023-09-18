@@ -39,6 +39,18 @@
       "stopAtEntry": false,
       "console": "integratedTerminal", // or externalTerminal to enable debug user input variable's such as Console.ReadLine();
       "requireExactSource": false
+    },
+    {
+      "name": "Launch Create-and-throw-exceptions-in-C#-console-applications (console)",
+      "type": "coreclr",
+      "request": "launch",
+      // "preLaunchTask": "build", this causing build issues during debug process initiation
+      "program": "${workspaceFolder}/Create-and-throw-exceptions-in-C#-console-applications/bin/Debug/net7.0/Create-and-throw-exceptions-in-C#-console-applications.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "stopAtEntry": false,
+      "console": "integratedTerminal", // or externalTerminal to enable debug user input variable's such as Console.ReadLine();
+      "requireExactSource": false
     }
   ]
 }

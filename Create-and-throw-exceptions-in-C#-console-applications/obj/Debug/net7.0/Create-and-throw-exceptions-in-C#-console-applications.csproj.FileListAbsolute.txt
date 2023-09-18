@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Dotnet-Debug-101\Create-and-throw-exceptions-in-C#-console-applications\bin\Debug\net7.0\Create-and-throw-exceptions-in-C#-console-applications.exe
+C:\Users\User\Desktop\Dotnet-Debug-101\Create-and-throw-exceptions-in-C#-console-applications\bin\Debug\net7.0\Create-and-throw-exceptions-in-C#-console-applications.deps.json
+C:\Users\User\Desktop\Dotnet-Debug-101\Create-and-throw-exceptions-in-C#-console-applications\bin\Debug\net7.0\Create-and-throw-exceptions-in-C#-console-applications.runtimeconfig.json
+C:\Users\User\Desktop\Dotnet-Debug-101\Create-and-throw-exceptions-in-C#-console-applications\bin\Debug\net7.0\Create-and-throw-exceptions-in-C#-console-applications.dll
+C:\Users\User\Desktop\Dotnet-Debug-101\Create-and-throw-exceptions-in-C#-console-applications\bin\Debug\net7.0\Create-and-throw-exceptions-in-C#-console-applications.pdb
+C:\Users\User\Desktop\Dotnet-Debug-101\Create-and-throw-exceptions-in-C#-console-applications\obj\Debug\net7.0\Create-and-throw-exceptions-in-C#-console-applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Dotnet-Debug-101\Create-and-throw-exceptions-in-C#-console-applications\obj\Debug\net7.0\Create-and-throw-exceptions-in-C#-console-applications.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Dotnet-Debug-101\Create-and-throw-exceptions-in-C#-console-applications\obj\Debug\net7.0\Create-and-throw-exceptions-in-C#-console-applications.AssemblyInfo.cs
+C:\Users\User\Desktop\Dotnet-Debug-101\Create-and-throw-exceptions-in-C#-console-applications\obj\Debug\net7.0\Create-and-throw-exceptions-in-C#-console-applications.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dotnet-Debug-101\Create-and-throw-exceptions-in-C#-console-applications\obj\Debug\net7.0\Create-and-throw-exceptions-in-C#-console-applications.dll
+C:\Users\User\Desktop\Dotnet-Debug-101\Create-and-throw-exceptions-in-C#-console-applications\obj\Debug\net7.0\refint\Create-and-throw-exceptions-in-C#-console-applications.dll
+C:\Users\User\Desktop\Dotnet-Debug-101\Create-and-throw-exceptions-in-C#-console-applications\obj\Debug\net7.0\Create-and-throw-exceptions-in-C#-console-applications.pdb
+C:\Users\User\Desktop\Dotnet-Debug-101\Create-and-throw-exceptions-in-C#-console-applications\obj\Debug\net7.0\Create-and-throw-exceptions-in-C#-console-applications.genruntimeconfig.cache
+C:\Users\User\Desktop\Dotnet-Debug-101\Create-and-throw-exceptions-in-C#-console-applications\obj\Debug\net7.0\ref\Create-and-throw-exceptions-in-C#-console-applications.dll
