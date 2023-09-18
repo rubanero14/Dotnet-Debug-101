@@ -63,6 +63,18 @@
       "stopAtEntry": false,
       "console": "integratedTerminal", // or externalTerminal to enable debug user input variable's such as Console.ReadLine();
       "requireExactSource": false
+    },
+    {
+      "name": "Launch Guided-project-debugging-CSharp-main (console)",
+      "type": "coreclr",
+      "request": "launch",
+      // "preLaunchTask": "build", this causing build issues during debug process initiation
+      "program": "${workspaceFolder}/Guided-project-debugging-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "stopAtEntry": false,
+      "console": "integratedTerminal", // or externalTerminal to enable debug user input variable's such as Console.ReadLine();
+      "requireExactSource": false
     }
   ]
 }
