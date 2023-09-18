@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Dotnet-Debug-101\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net7.0\Starter.exe
+C:\Users\User\Desktop\Dotnet-Debug-101\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net7.0\Starter.deps.json
+C:\Users\User\Desktop\Dotnet-Debug-101\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+C:\Users\User\Desktop\Dotnet-Debug-101\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net7.0\Starter.dll
+C:\Users\User\Desktop\Dotnet-Debug-101\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\bin\Debug\net7.0\Starter.pdb
+C:\Users\User\Desktop\Dotnet-Debug-101\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Dotnet-Debug-101\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Dotnet-Debug-101\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+C:\Users\User\Desktop\Dotnet-Debug-101\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dotnet-Debug-101\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\Starter.dll
+C:\Users\User\Desktop\Dotnet-Debug-101\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\refint\Starter.dll
+C:\Users\User\Desktop\Dotnet-Debug-101\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\Starter.pdb
+C:\Users\User\Desktop\Dotnet-Debug-101\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+C:\Users\User\Desktop\Dotnet-Debug-101\Challenge-project-debugging-CSharp-main\ChallengeProject\Starter\obj\Debug\net7.0\ref\Starter.dll

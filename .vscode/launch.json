@@ -77,11 +77,11 @@
       "requireExactSource": false
     },
     {
-      "name": "Launch Challenge-project-Debug-a-CSharp-console-application-using-Visual-Studio-Code (console)",
+      "name": "Launch Challenge-project-debugging-CSharp-main (console)",
       "type": "coreclr",
       "request": "launch",
       // "preLaunchTask": "build", this causing build issues during debug process initiation
-      "program": "${workspaceFolder}/Challenge-project-Debug-a-CSharp-console-application-using-Visual-Studio-Code/bin/Debug/net7.0/Challenge-project-Debug-a-CSharp-console-application-using-Visual-Studio-Code.dll",
+      "program": "${workspaceFolder}/Challenge-project-debugging-CSharp-main/ChallengeProject/Starter/bin/Debug/net7.0/Starter.dll",
       "args": [],
       "cwd": "${workspaceFolder}",
       "stopAtEntry": false,
