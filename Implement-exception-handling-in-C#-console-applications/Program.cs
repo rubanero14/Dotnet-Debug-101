@@ -53,50 +53,50 @@ catch // Step 3: the system finds a catch clause that can handle the exception
 // Code samples for compiler-generated exceptions
 
 // ArrayTypeMismatchException example
-// string[] names = { "Dog", "Cat", "Fish" };
-// Object[] objs = (Object[])names;
-// Object obj = (Object)13;
-// objs[2] = obj; // ArrayTypeMismatchException occurs
+string[] names = { "Dog", "Cat", "Fish" };
+Object[] objs = (Object[])names;
+Object obj = (Object)13;
+objs[2] = obj; // ArrayTypeMismatchException occurs
 
 
 // DivideByZeroException example
-// int number1 = 3000;
-// int number2 = 0;
-// Console.WriteLine(number1 / number2); // DivideByZeroException occurs
+int number1 = 3000;
+int number2 = 0;
+Console.WriteLine(number1 / number2); // DivideByZeroException occurs
 
 
 // FormatException example
-// int valueEntered;
-// string userValue = "two";
-// valueEntered = int.Parse(userValue); // FormatException occurs
+int valueEntered;
+string userValue = "two";
+valueEntered = int.Parse(userValue); // FormatException occurs
 
 
 // IndexOutOfRangeException example
-// int[] values1 = { 3, 6, 9, 12, 15, 18, 21 };
-// int[] values2 = new int[6];
-// values2[values1.Length - 1] = values1[values1.Length - 1]; // IndexOutOfRangeException occurs
+int[] values1 = { 3, 6, 9, 12, 15, 18, 21 };
+int[] values2 = new int[6];
+values2[values1.Length - 1] = values1[values1.Length - 1]; // IndexOutOfRangeException occurs
 
 
 // InvalidCastException example
-// object obj = "This is a string";
-// int num = (int)obj;
+object obj = "This is a string";
+int num = (int)obj;
 
 
 // NullReferenceException example
-// attempting to access an element of a null array
-// int[] values = null;
-// for (int i = 0; i <= 9; i++)
-//     values[i] = i * 2;
+attempting to access an element of a null array
+int[] values = null;
+for (int i = 0; i <= 9; i++)
+    values[i] = i * 2;
 
 // attempting to access a method of a null string
-// string? lowCaseString = null;
-// Console.WriteLine(lowCaseString.ToUpper());
+string? lowCaseString = null;
+Console.WriteLine(lowCaseString.ToUpper());
 
 
 // OverflowException example
-// decimal x = 400;
-// byte i;
-// i = (byte)x; // OverflowException occurs
-// Console.WriteLine(i);
+decimal x = 400;
+byte i;
+i = (byte)x; // OverflowException occurs
+Console.WriteLine(i);
 
 Console.WriteLine("============================================================================================");

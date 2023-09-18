@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Create-and-throw-an-exception\bin\Debug\net7.0\Exercise-Create-and-throw-an-exception.exe
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Create-and-throw-an-exception\bin\Debug\net7.0\Exercise-Create-and-throw-an-exception.deps.json
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Create-and-throw-an-exception\bin\Debug\net7.0\Exercise-Create-and-throw-an-exception.runtimeconfig.json
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Create-and-throw-an-exception\bin\Debug\net7.0\Exercise-Create-and-throw-an-exception.dll
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Create-and-throw-an-exception\bin\Debug\net7.0\Exercise-Create-and-throw-an-exception.pdb
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Create-and-throw-an-exception\obj\Debug\net7.0\Exercise-Create-and-throw-an-exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Create-and-throw-an-exception\obj\Debug\net7.0\Exercise-Create-and-throw-an-exception.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Create-and-throw-an-exception\obj\Debug\net7.0\Exercise-Create-and-throw-an-exception.AssemblyInfo.cs
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Create-and-throw-an-exception\obj\Debug\net7.0\Exercise-Create-and-throw-an-exception.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Create-and-throw-an-exception\obj\Debug\net7.0\Exercise-Create-and-throw-an-exception.dll
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Create-and-throw-an-exception\obj\Debug\net7.0\refint\Exercise-Create-and-throw-an-exception.dll
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Create-and-throw-an-exception\obj\Debug\net7.0\Exercise-Create-and-throw-an-exception.pdb
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Create-and-throw-an-exception\obj\Debug\net7.0\Exercise-Create-and-throw-an-exception.genruntimeconfig.cache
+C:\Users\User\Desktop\Dotnet-Debug-101\Exercise-Create-and-throw-an-exception\obj\Debug\net7.0\ref\Exercise-Create-and-throw-an-exception.dll

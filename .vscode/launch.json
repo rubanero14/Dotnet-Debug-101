@@ -51,6 +51,18 @@
       "stopAtEntry": false,
       "console": "integratedTerminal", // or externalTerminal to enable debug user input variable's such as Console.ReadLine();
       "requireExactSource": false
+    },
+    {
+      "name": "Launch Exercise-Create-and-throw-an-exception (console)",
+      "type": "coreclr",
+      "request": "launch",
+      // "preLaunchTask": "build", this causing build issues during debug process initiation
+      "program": "${workspaceFolder}/Exercise-Create-and-throw-an-exception/bin/Debug/net7.0/Exercise-Create-and-throw-an-exception.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "stopAtEntry": false,
+      "console": "integratedTerminal", // or externalTerminal to enable debug user input variable's such as Console.ReadLine();
+      "requireExactSource": false
     }
   ]
 }
