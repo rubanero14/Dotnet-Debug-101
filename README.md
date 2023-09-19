@@ -44,7 +44,7 @@ dotnet new sln
 
 ## To debug your console application, configuration needs to be done in `launch.json` file inside `.vscode` at root folder in your project. Example config as below:
 
-```c#
+```json
 {
   // Use IntelliSense to learn about possible attributes.
   // Hover to view descriptions of existing attributes.
@@ -62,9 +62,11 @@ dotnet new sln
       "stopAtEntry": false,
       "console": "integratedTerminal", // or externalTerminal to enable debug user input variable's such as Console.ReadLine();
       "requireExactSource": false
-    },
+    }
   ]
 }
-// Ensure to build your project first prior to debug and testing
-// Now you can start to debug the project under DEBUG & RUN tab for this project
 ```
+
+### Ensure to build your project first prior to debug and testing
+
+### Now you can start to debug the project under DEBUG & RUN tab for this project
